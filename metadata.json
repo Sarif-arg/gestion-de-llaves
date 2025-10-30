@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de llaves",
+  "description": "Sistema de gestión de llaves para una inmobiliaria. Permite a un usuario administrador agregar y administrar llaves además de tener una bitácora de movimientos, avisar si una llave se retira por demasiado tiempo, etc. También permite a un usuario normal retirar llaves para mostrar propiedades y saber un historial de muestras.",
+  "requestFramePermissions": []
+}
