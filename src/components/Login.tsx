@@ -28,9 +28,6 @@ const Login: React.FC = () => {
                     <p className="mt-2 text-sm text-gray-400">
                         Almiron Propiedades
                     </p>
-                    <p className="mt-4 text-sm text-gray-400">
-                        Use <code className="bg-gray-700 px-1 rounded">admin</code>/<code className="bg-gray-700 px-1 rounded">adminpassword</code> o <code className="bg-gray-700 px-1 rounded">user</code>/<code className="bg-gray-700 px-1 rounded">userpassword</code>
-                    </p>
                 </div>
                 <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
                     <div className="rounded-md shadow-sm -space-y-px">
